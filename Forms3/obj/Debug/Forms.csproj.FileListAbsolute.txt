@@ -1,0 +1,15 @@
+J:\LabsCSharp\лаба3_с_шарп\bin\Debug\лаба3_с_шарп.exe.config
+J:\LabsCSharp\лаба3_с_шарп\bin\Debug\лаба3_с_шарп.exe
+J:\LabsCSharp\лаба3_с_шарп\bin\Debug\лаба3_с_шарп.pdb
+J:\LabsCSharp\лаба3_с_шарп\bin\Debug\Lab3Lib.dll
+J:\LabsCSharp\лаба3_с_шарп\bin\Debug\Lab3Lib.pdb
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\Forms.csproj.AssemblyReference.cache
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\task3.Input.resources
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\task3.MainForm.resources
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\лаба3_с_шарп.Properties.Resources.resources
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\Forms.csproj.GenerateResource.cache
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\Forms.csproj.CopyComplete
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\лаба3_с_шарп.exe
+J:\LabsCSharp\лаба3_с_шарп\obj\Debug\лаба3_с_шарп.pdb

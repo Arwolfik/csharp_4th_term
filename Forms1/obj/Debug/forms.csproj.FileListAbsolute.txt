@@ -1,0 +1,28 @@
+J:\LabsCSharp\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.exe.config
+J:\LabsCSharp\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.exe
+J:\LabsCSharp\лаба1_с_шарп\bin\Debug\лаба1_с_шарп.pdb
+J:\LabsCSharp\лаба1_с_шарп\bin\Debug\Lab1Lib.dll
+J:\LabsCSharp\лаба1_с_шарп\bin\Debug\Lab1Lib.pdb
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\forms.csproj.AssemblyReference.cache
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\forms.csproj.SuggestedBindingRedirects.cache
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.Properties.Resources.resources
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\forms.csproj.GenerateResource.cache
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\forms.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\forms.csproj.CopyComplete
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.exe
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\лаба1_с_шарп.pdb
+J:\LabsCSharp\лаба1_с_шарп\obj\Debug\task1.Main.resources
+J:\LabsCSharp — копия\Forms1\bin\Debug\лаба1_с_шарп.exe.config
+J:\LabsCSharp — копия\Forms1\bin\Debug\лаба1_с_шарп.exe
+J:\LabsCSharp — копия\Forms1\bin\Debug\лаба1_с_шарп.pdb
+J:\LabsCSharp — копия\Forms1\bin\Debug\Lab1Lib.dll
+J:\LabsCSharp — копия\Forms1\bin\Debug\Lab1Lib.pdb
+J:\LabsCSharp — копия\Forms1\obj\Debug\Forms.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Forms1\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+J:\LabsCSharp — копия\Forms1\obj\Debug\task1.Main.resources
+J:\LabsCSharp — копия\Forms1\obj\Debug\лаба1_с_шарп.Properties.Resources.resources
+J:\LabsCSharp — копия\Forms1\obj\Debug\Forms.csproj.GenerateResource.cache
+J:\LabsCSharp — копия\Forms1\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Forms1\obj\Debug\Forms.csproj.CopyComplete
+J:\LabsCSharp — копия\Forms1\obj\Debug\лаба1_с_шарп.exe
+J:\LabsCSharp — копия\Forms1\obj\Debug\лаба1_с_шарп.pdb

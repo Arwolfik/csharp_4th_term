@@ -1,0 +1,6 @@
+J:\LabsCSharp\Lab1Lib\bin\Debug\Lab1Lib.dll
+J:\LabsCSharp\Lab1Lib\bin\Debug\Lab1Lib.pdb
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.csproj.AssemblyReference.cache
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.dll
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.pdb

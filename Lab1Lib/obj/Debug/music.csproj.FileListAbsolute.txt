@@ -1,0 +1,12 @@
+J:\LabsCSharp\Lab1Lib\bin\Debug\Lab1Lib.dll
+J:\LabsCSharp\Lab1Lib\bin\Debug\Lab1Lib.pdb
+J:\LabsCSharp\Lab1Lib\obj\Debug\music.csproj.AssemblyReference.cache
+J:\LabsCSharp\Lab1Lib\obj\Debug\music.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.dll
+J:\LabsCSharp\Lab1Lib\obj\Debug\Lab1Lib.pdb
+J:\LabsCSharp — копия\Lab1Lib\bin\Debug\Lab1Lib.dll
+J:\LabsCSharp — копия\Lab1Lib\bin\Debug\Lab1Lib.pdb
+J:\LabsCSharp — копия\Lab1Lib\obj\Debug\Music.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Lab1Lib\obj\Debug\Music.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Lab1Lib\obj\Debug\Lab1Lib.dll
+J:\LabsCSharp — копия\Lab1Lib\obj\Debug\Lab1Lib.pdb

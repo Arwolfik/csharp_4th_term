@@ -1,0 +1,12 @@
+J:\LabsCSharp\Lab3Lib\bin\Debug\Lab3Lib.dll
+J:\LabsCSharp\Lab3Lib\bin\Debug\Lab3Lib.pdb
+J:\LabsCSharp\Lab3Lib\obj\Debug\Camera.csproj.AssemblyReference.cache
+J:\LabsCSharp\Lab3Lib\obj\Debug\Camera.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\Lab3Lib\obj\Debug\Lab3Lib.dll
+J:\LabsCSharp\Lab3Lib\obj\Debug\Lab3Lib.pdb
+J:\LabsCSharp — копия\Lab3Lib\bin\Debug\Lab3Lib.dll
+J:\LabsCSharp — копия\Lab3Lib\bin\Debug\Lab3Lib.pdb
+J:\LabsCSharp — копия\Lab3Lib\obj\Debug\Camera.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Lab3Lib\obj\Debug\Camera.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Lab3Lib\obj\Debug\Lab3Lib.dll
+J:\LabsCSharp — копия\Lab3Lib\obj\Debug\Lab3Lib.pdb

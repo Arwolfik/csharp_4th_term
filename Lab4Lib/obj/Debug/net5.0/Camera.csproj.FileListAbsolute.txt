@@ -1,0 +1,36 @@
+J:\LabsCSharp\DivaceLib\bin\Debug\net5.0\Camera.deps.json
+J:\LabsCSharp\DivaceLib\bin\Debug\net5.0\Camera.dll
+J:\LabsCSharp\DivaceLib\bin\Debug\net5.0\Camera.pdb
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.csproj.AssemblyReference.cache
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.GeneratedMSBuildEditorConfig.editorconfig
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.AssemblyInfoInputs.cache
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.AssemblyInfo.cs
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.dll
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\refint\Camera.dll
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\Camera.pdb
+J:\LabsCSharp\DivaceLib\obj\Debug\net5.0\ref\Camera.dll
+J:\LabsCSharp — копия\Lab4Lib\bin\Debug\net5.0\Camera.deps.json
+J:\LabsCSharp — копия\Lab4Lib\bin\Debug\net5.0\Camera.dll
+J:\LabsCSharp — копия\Lab4Lib\bin\Debug\net5.0\Camera.pdb
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.GeneratedMSBuildEditorConfig.editorconfig
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.AssemblyInfoInputs.cache
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.AssemblyInfo.cs
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.dll
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\refint\Camera.dll
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\Camera.pdb
+J:\LabsCSharp — копия\Lab4Lib\obj\Debug\net5.0\ref\Camera.dll
+J:\csharp_4th_term\Lab4Lib\bin\Debug\net5.0\Camera.deps.json
+J:\csharp_4th_term\Lab4Lib\bin\Debug\net5.0\Camera.dll
+J:\csharp_4th_term\Lab4Lib\bin\Debug\net5.0\Camera.pdb
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.csproj.AssemblyReference.cache
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.GeneratedMSBuildEditorConfig.editorconfig
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.AssemblyInfoInputs.cache
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.AssemblyInfo.cs
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.csproj.CoreCompileInputs.cache
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.dll
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\refint\Camera.dll
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\Camera.pdb
+J:\csharp_4th_term\Lab4Lib\obj\Debug\net5.0\ref\Camera.dll

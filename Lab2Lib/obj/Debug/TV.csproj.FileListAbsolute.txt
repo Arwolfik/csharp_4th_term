@@ -1,0 +1,12 @@
+J:\LabsCSharp\Lab2Lib\bin\Debug\Lab2Lib.dll
+J:\LabsCSharp\Lab2Lib\bin\Debug\Lab2Lib.pdb
+J:\LabsCSharp\Lab2Lib\obj\Debug\TV.csproj.AssemblyReference.cache
+J:\LabsCSharp\Lab2Lib\obj\Debug\TV.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\Lab2Lib\obj\Debug\Lab2Lib.dll
+J:\LabsCSharp\Lab2Lib\obj\Debug\Lab2Lib.pdb
+J:\LabsCSharp — копия\Lab2Lib\bin\Debug\Lab2Lib.dll
+J:\LabsCSharp — копия\Lab2Lib\bin\Debug\Lab2Lib.pdb
+J:\LabsCSharp — копия\Lab2Lib\obj\Debug\TV.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Lab2Lib\obj\Debug\TV.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Lab2Lib\obj\Debug\Lab2Lib.dll
+J:\LabsCSharp — копия\Lab2Lib\obj\Debug\Lab2Lib.pdb

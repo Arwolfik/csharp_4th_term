@@ -1,0 +1,63 @@
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.exe
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.deps.json
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.runtimeconfig.json
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.runtimeconfig.dev.json
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.dll
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Forms.pdb
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Camera.dll
+J:\LabsCSharp\лаба4с_шарп\bin\Debug\net5.0-windows\Camera.pdb
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.csproj.AssemblyReference.cache
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.csproj.GenerateResource.cache
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.AssemblyInfoInputs.cache
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.AssemblyInfo.cs
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.csproj.CoreCompileInputs.cache
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.csproj.CopyComplete
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.dll
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\refint\Forms.dll
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.pdb
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\Forms.genruntimeconfig.cache
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\ref\Forms.dll
+J:\LabsCSharp\лаба4с_шарп\obj\Debug\net5.0-windows\task4Forms.MainForm.resources
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.csproj.AssemblyReference.cache
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\task4Forms.MainForm.resources
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.csproj.GenerateResource.cache
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.AssemblyInfoInputs.cache
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.AssemblyInfo.cs
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.csproj.CoreCompileInputs.cache
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.dll
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\refint\Forms.dll
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.pdb
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.exe
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.deps.json
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.runtimeconfig.json
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.runtimeconfig.dev.json
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.dll
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Forms.pdb
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Camera.dll
+J:\LabsCSharp — копия\Forms4\bin\Debug\net5.0-windows\Camera.pdb
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.csproj.CopyComplete
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\Forms.genruntimeconfig.cache
+J:\LabsCSharp — копия\Forms4\obj\Debug\net5.0-windows\ref\Forms.dll
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.dll
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\refint\Forms.dll
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.pdb
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.exe
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.deps.json
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.runtimeconfig.json
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.runtimeconfig.dev.json
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.dll
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Forms.pdb
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Camera.dll
+J:\csharp_4th_term\Forms4\bin\Debug\net5.0-windows\Camera.pdb
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.csproj.AssemblyReference.cache
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\task4Forms.MainForm.resources
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.csproj.GenerateResource.cache
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.AssemblyInfoInputs.cache
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.AssemblyInfo.cs
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.csproj.CoreCompileInputs.cache
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.csproj.CopyComplete
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\Forms.genruntimeconfig.cache
+J:\csharp_4th_term\Forms4\obj\Debug\net5.0-windows\ref\Forms.dll
